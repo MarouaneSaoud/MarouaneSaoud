@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saoud Marouane</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
-<img align="right" alt="Coding" whith="400" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ"/>
-<h3 align="center">A passionate Backend developer from Morocco</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouanesaoud&label=Profile%20views&color=0e75b6&style=flat" alt="marouanesaoud" /> </p>
+
+
+<div style="text-align:center;">
+    <img style="width:100%; max-width:100%;" alt="Coding" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ"/>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
